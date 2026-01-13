@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-app",
+  "installCommand": "npm install",
+  "buildCommand": "npm run generate",
+  "assets": {
+    "directory": "./.output/public",
+    "notFoundStrategy": "404Page"
+  }
+}
